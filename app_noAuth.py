@@ -120,6 +120,15 @@ def fetch_and_clean(_status) -> pd.DataFrame:
             )
             time.sleep(10)
             continue
+            
+        if res.status_code == 500:
+            _status.update(
+                label=f"⏳ 500 Server Error — retrying page {page} in 10 seconds...",
+                state="running"
+            )
+            time.sleep(10)
+            continue
+
 
         if res.status_code != 200:
             _status.update(
@@ -1684,4 +1693,5 @@ with tabs[4]:
 
 
 st.markdown("---")
+
 st.caption("Built with Streamlit • Built by Joyal K Noble.")
