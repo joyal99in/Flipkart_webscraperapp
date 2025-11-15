@@ -1,6 +1,3 @@
-Here is your **cleaned, grammatically correct, and professionally formatted** version:
-
----
 
 # **1. Project Title / Overview**
 
