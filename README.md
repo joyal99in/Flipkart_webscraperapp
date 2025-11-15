@@ -58,3 +58,26 @@ To compare processor performance, benchmark scores were extracted from the **Ant
 
 # **6. Web App Screenshots**
 
+### **Data Loading Page**
+![Website Traffic Dashboard](https://github.com/joyal99in/Flipkart_webscraperapp/blob/main/Data%20Loading%20Page.png)  
+
+### **Main Page**
+![Website Traffic Dashboard](https://github.com/joyal99in/Flipkart_webscraperapp/blob/main/Main%20Page.png)  
+
+### **Product Lineup Analysis**
+![Website Traffic Dashboard](https://github.com/joyal99in/Flipkart_webscraperapp/blob/main/Product%20Lineup%20Analysis.png)  
+
+### **Hardware Analysis**
+![Website Traffic Dashboard](https://github.com/joyal99in/Flipkart_webscraperapp/blob/main/Specification%20Analysis.png)  
+
+### **Ratings & Popularity Analysis**
+![Website Traffic Dashboard](https://github.com/joyal99in/Flipkart_webscraperapp/blob/main/Customer%20Satisfaction%20Analysis.png)  
+
+### **Price Analysis**
+![Website Traffic Dashboard](https://github.com/joyal99in/Flipkart_webscraperapp/blob/main/Price%20Analysis.png)  
+
+### **Recommendation System**
+![Website Traffic Dashboard](https://github.com/joyal99in/Flipkart_webscraperapp/blob/main/Recommendation%20System.png)  
+
+
+
