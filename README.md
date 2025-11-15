@@ -60,30 +60,39 @@ To compare processor performance, benchmark scores were extracted from the **Ant
 
 ### **Data Loading Page**
 ![Website Traffic Dashboard](https://github.com/joyal99in/Flipkart_webscraperapp/blob/main/Data%20Loading%20Page.png)  
-
+<br><br>
 
 ### **Main Page**
-![Website Traffic Dashboard](https://github.com/joyal99in/Flipkart_webscraperapp/blob/main/Main%20Page.png)  
+![Main Page](https://github.com/joyal99in/Flipkart_webscraperapp/blob/main/Main%20Page.png)  
 
+
+---
+
+<details>
+<summary><h3>📑 Sections / Tabs</h3></summary>
+
+<br>
 
 ### **Product Lineup Analysis**
-![Website Traffic Dashboard](https://github.com/joyal99in/Flipkart_webscraperapp/blob/main/Product%20Lineup%20Analysis.png)  
-
+![Product Lineup Analysis](https://github.com/joyal99in/Flipkart_webscraperapp/blob/main/Product%20Lineup%20Analysis.png)  
+<br><br>
 
 ### **Hardware Analysis**
-![Website Traffic Dashboard](https://github.com/joyal99in/Flipkart_webscraperapp/blob/main/Specification%20Analysis.png)  
-
+![Specification Analysis](https://github.com/joyal99in/Flipkart_webscraperapp/blob/main/Specification%20Analysis.png)  
+<br><br>
 
 ### **Ratings & Popularity Analysis**
-![Website Traffic Dashboard](https://github.com/joyal99in/Flipkart_webscraperapp/blob/main/Customer%20Satisfaction%20Analysis.png)
-
+![Customer Satisfaction Analysis](https://github.com/joyal99in/Flipkart_webscraperapp/blob/main/Customer%20Satisfaction%20Analysis.png)  
+<br><br>
 
 ### **Price Analysis**
-![Website Traffic Dashboard](https://github.com/joyal99in/Flipkart_webscraperapp/blob/main/Price%20Analysis.png)  
-
+![Price Analysis](https://github.com/joyal99in/Flipkart_webscraperapp/blob/main/Price%20Analysis.png)  
+<br><br>
 
 ### **Recommendation System**
-![Website Traffic Dashboard](https://github.com/joyal99in/Flipkart_webscraperapp/blob/main/Recommendation%20System.png)  
+![Recommendation System](https://github.com/joyal99in/Flipkart_webscraperapp/blob/main/Recommendation%20System.png)  
+<br><br>
 
+</details>
 
 
