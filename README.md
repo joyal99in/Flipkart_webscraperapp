@@ -58,8 +58,3 @@ To compare processor performance, benchmark scores were extracted from the **Ant
 
 # **6. Web App Screenshots**
 
-*(Add your images here)*
-
----
-
-If you'd like, I can also format this as a **resume project description**, **GitHub README**, or **portfolio section**.
